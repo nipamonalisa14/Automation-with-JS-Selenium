@@ -1,0 +1,20 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "selenium webdriver practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts.js"
+  },
+  "keywords": [
+    "Selenium",
+    "Xpath",
+    "locators",
+    "etc."
+  ],
+  "author": "Nipa Monalisa",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.25.0"
+  }
+}
